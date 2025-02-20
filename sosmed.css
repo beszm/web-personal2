@@ -1,0 +1,61 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    color: black;
+    position: absolute;
+      top: 30px;
+      left: 530px;
+      font-family: 'Times New Roman', Times, serif;
+}
+
+.name1 {
+    position: absolute;
+    top: 127px;
+    left: 347px;
+}
+
+.name3 {
+    position: absolute;
+    top: 128px;
+    left: 385px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.name2 {
+    position: absolute;
+    top: 125px;
+    left: 610px;
+}
+
+.name4 {
+    position: absolute;
+    top: 129px;
+    left: 650px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.name5 {
+    position: absolute;
+    top: 123px;
+    left: 858px;
+}
+
+.name6 {
+    position: absolute;
+    top: 129px;
+    left: 900px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
